@@ -2,7 +2,7 @@
 EuMu API - API for selfbots, account controlling. by EuteMuin
 # DOX here
 ### https://guilded.gg/Eutemuin
-# Art
+# Art (copy paste)
 @@@0Ct11111111111111111111111111111111111111111111111111111111111111111111111111ttfG0@@
 @8Ct11111111111111111111111111111111111111111111111111111111111111111111111111111111fG@
 0f11111111iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii1111111111tL
